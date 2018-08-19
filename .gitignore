@@ -11,7 +11,8 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
-.idea
+.idea/workspace.xml
+.idea/
 
 # Sensitive or high-churn files
 .idea/**/dataSources/
