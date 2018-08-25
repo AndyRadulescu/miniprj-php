@@ -14,7 +14,7 @@
             </div>
             <div class="form-group">
                 <label>Password</label>
-                <input type="password" name="link" class="form-control"/>
+                <input type="password" name="password" class="form-control"/>
             </div>
             <input class="btn btn-primary" name="submit" type="submit" value="Submit"/>
 
